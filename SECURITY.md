@@ -23,3 +23,4 @@ If you have encountered a security vulnerbiltiy in the project:
 
 1. We are to work with you to validate and resolve the discovered vulnerabiltiy
 2. Once the issue is resolved, the details of the vulnerabilty will be disclosed
+
