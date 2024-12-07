@@ -1,5 +1,5 @@
-from cave import Cave
 """Tester for the cave class"""
+from cave import Cave
 
 obj = Cave("Temple","Mosque")
 
