@@ -22,5 +22,4 @@ it's a {self.cave_type} themed cave\nStarting on Floor: {self.level}"
             self.level = level
             return f"Player has moved down to Floor {level}"
 
-        else:
-            return f"Player is currently still on Floor {level}"
+        return f"Player is currently still on Floor {level}"
