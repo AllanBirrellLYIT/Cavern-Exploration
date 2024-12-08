@@ -1,4 +1,4 @@
-"""Tester for the cave class"""
+"""The main to run the code"""
 from cave import Cave
 
 obj = Cave("Temple","Mosque")
