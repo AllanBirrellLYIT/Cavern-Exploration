@@ -4,6 +4,7 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.footer
   palette:
     - scheme: slate
       primary: deep purple  
@@ -20,3 +21,10 @@ theme:
 plugins:
 - search
 - mkdocstrings
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/AllanBirrellLYIT/Cavern-Exploration
+
+copyright: Copyright &copy; 2024 Allan Birrell
