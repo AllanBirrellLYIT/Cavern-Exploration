@@ -1,6 +1,5 @@
-# Welcome to MkDocs
+# Hidden Cavern Exploration - Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
@@ -8,3 +7,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         codepage.md  # The documentation for the code created page
+        testpage.md # The documentation for the test code page
+
+
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).

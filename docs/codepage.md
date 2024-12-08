@@ -1,4 +1,4 @@
 # Code Annotations
 
-The cave class that tells the type of cave
+## The Cave class
 ::: src.cave.Cave
